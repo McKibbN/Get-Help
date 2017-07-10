@@ -103,3 +103,12 @@ function searchbox() {
       break;
   }
 }
+function tax() {
+  var Curiosity = $(".car1").val();
+  var Dynamo = $(".car2").val();
+  var Stardust = $(".car3").val();
+  var Falcon = $(".car4").val();
+  var Jazz = $(".car5").val();
+  var Daydream = $(".car6").val();
+
+}
